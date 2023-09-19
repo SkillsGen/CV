@@ -10,7 +10,7 @@ Ultimately responsible for the development of a web application that keeps track
   - Tracks classrooms, bookings, invoices, trainer schedules, learning metrics, marketing and customer relations management
   - Developed with Python, flask, postgreSQL, Bootstrap and Swift (for the app).
   - Backend currently being rewritten in Rust.
-  - All accessable through the web and a custom iOS application.
+  - All accessible through the web and a custom iOS application.
 
 **Training** @ [SkillsGen](www.skillsgen.com) _(2012 - Present)_ <br>
   - SQL
@@ -24,12 +24,12 @@ Ultimately responsible for the development of a web application that keeps track
     This uses a greatly expanded version of the audio processing code of wave and filters to produce a fully functional subtractive synthesizer, coded entirely in c++ with the dear imgui library as the UI.
     ![SubSynth](https://github.com/SkillsGen/CV/blob/master/subsynth.PNG?raw=true "SubSynth")
   - **_Cryptid_** (C++)
-    Cryptid is a fully encrypted chat program written in c++ for maximum compatibability, it supports voice chat with the Opus codec, images and video with the VPX codecs. It is extremely performant has fully featured, windows, linux and macos versions.
+    Cryptid is a fully encrypted chat program written in c++ for maximum compatibility, it supports voice chat with the Opus codec, images and video with the VPX codecs. It is extremely performant has fully featured, windows, linux and macos versions.
     ![Cryptid](https://github.com/SkillsGen/CV/blob/master/cryptid.PNG?raw=true "Cryptid")
   - **_cgrad_** (C)
     This is a single header file library that allows you to build up a mathematical expression as a graph, calculate the partial derivative of any node and change values. Built mostly as a learning exercise.
   - **_cnn_** (C)
-    CNN is a straightforward implementation of a Neural Network. It supports most common activation functions and weight initilization methods.
+    CNN is a straightforward implementation of a Neural Network from scratch in C as a single file header library. It comes with 3 example datasets: logic gates, ionosphere data and the MNIST handwritten numeral set.
 
 **Demonstration Programs** <br>
   - **_IO_uring_**
