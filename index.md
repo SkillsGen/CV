@@ -14,3 +14,5 @@ Ultimately responsible for the development of a web application that keeps track
   - All accessable through the web and a custom iOS application.
 Training
   - SQL, App development,
+
+![Alt text]("/waves and filters.png?raw=true" "Optional Title")
