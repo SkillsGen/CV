@@ -15,4 +15,4 @@ Ultimately responsible for the development of a web application that keeps track
 Training
   - SQL, App development,
 
-![Alt text]("/waves and filters.png?raw=true" "Optional Title")
+![Alt text](/WF.png?raw=true "Optional Title")
