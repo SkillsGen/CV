@@ -22,10 +22,10 @@ Ultimately responsible for the development of a web application that keeps track
     ![Waves and Filters](https://github.com/SkillsGen/CV/blob/master/WF.png?raw=true "Waves and Filters")
   - **_Subtractive Synthesiser_** (C++ / dear imgui)
     This uses a greatly expanded version of the audio processing code of wave and filters to produce a fully functional subtractive synthesizer, coded entirely in c++ with the dear imgui library as the UI.
-    ![SubSynth](/subsynth.PNG?raw=true "SubSynth")
+    ![SubSynth](https://github.com/SkillsGen/CV/blob/master/subsynth.PNG?raw=true "SubSynth")
   - **_Cryptid_** (C++)
     Cryptid is a fully encrypted chat program written in c++ for maximum compatibability, it supports voice chat with the Opus codec, images and video with the VPX codecs. It is extremely performant has fully featured, windows, linux and macos versions.
-    ![Cryptid](/cryptid.PNG?raw=true "Cryptid")
+    ![Cryptid](https://github.com/SkillsGen/CV/blob/master/cryptid.PNG?raw=true "Cryptid")
   - **_cgrad_** (C)
     This is a single header file library that allows you to build up a mathematical expression as a graph, calculate the partial derivative of any node and change values. Built mostly as a learning exercise.
   - **_cnn_** (C)
