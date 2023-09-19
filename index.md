@@ -19,7 +19,7 @@ Ultimately responsible for the development of a web application that keeps track
 ## Personal Projects
   - **_waves-filters_** (C / Swift / Metal) <br>
     By displaying the signal in both the time and frequency domains this application intends to give the user an intuition into how a synthesizer actually works and what happens when you change the dials. All audio processing is coded in c and called by the Swift layer which also handles drawing the oscilloscope displays with Metal.
-    ![Waves and Filters](/WF.png?raw=true "Waves and Filters")
+    ![Waves and Filters](https://github.com/SkillsGen/CV/blob/master/WF.png?raw=true "Waves and Filters")
   - **_Subtractive Synthesiser_** (C++ / dear imgui)
     This uses a greatly expanded version of the audio processing code of wave and filters to produce a fully functional subtractive synthesizer, coded entirely in c++ with the dear imgui library as the UI.
     ![SubSynth](/subsynth.PNG?raw=true "SubSynth")
