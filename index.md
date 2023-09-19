@@ -1,7 +1,6 @@
 # Sebastian Reinolds
 
-_Software engineer based in liverpool_ <br>#
-
+_Software engineer based in Liverpool_ <br>
 [Email](mailto:sreinolds@gmail.com) / [GitHub](https://github.com/skillsgen/)
 
 ## Engineering Experience
