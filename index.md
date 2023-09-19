@@ -1,8 +1,8 @@
-# s r
+# Sebastian Reinolds
 
 _Software engineer based in liverpool_ <br>#
 
-[Email](mailto:fdsf@gmail.com) / [GitHub](https://github.com/skillsgen/)
+[Email](mailto:sreinolds@gmail.com) / [GitHub](https://github.com/skillsgen/)
 
 ## Engineering Experience
 
@@ -12,7 +12,33 @@ Ultimately responsible for the development of a web application that keeps track
   - Developed with Python, flask, postgreSQL, Bootstrap and Swift (for the app).
   - Backend currently being rewritten in Rust.
   - All accessable through the web and a custom iOS application.
-Training
-  - SQL, App development,
 
-![Alt text](/WF.png?raw=true "Optional Title")
+**Training** @ [SkillsGen](www.skillsgen.com) _(2012 - Present)_ <br>
+  - SQL
+  - App development
+
+## Personal Projects
+  - **_waves-filters_** (C / Swift / Metal) <br>
+    By displaying the signal in both the time and frequency domains this application intends to give the user an intuition into how a synthesizer actually works and what happens when you change the dials. All audio processing is coded in c and called by the Swift layer which also handles drawing the oscilloscope displays with Metal.
+    ![Waves and Filters](/WF.png?raw=true "Waves and Filters")
+  - **_Subtractive Synthesiser_** (C++ / dear imgui)
+    This uses a greatly expanded version of the audio processing code of wave and filters to produce a fully functional subtractive synthesizer, coded entirely in c++ with the dear imgui library as the UI.
+    ![SubSynth](/subsynth.PNG?raw=true "SubSynth")
+  - **_Cryptid_** (C++)
+    Cryptid is a fully encrypted chat program written in c++ for maximum compatibability, it supports voice chat with the Opus codec, images and video with the VPX codecs. It is extremely performant has fully featured, windows, linux and macos versions.
+    ![Cryptid](/cryptid.PNG?raw=true "Cryptid")
+  - **_cgrad_** (C)
+    This is a single header file library that allows you to build up a mathematical expression as a graph, calculate the partial derivative of any node and change values. Built mostly as a learning exercise.
+  - **_cnn_** (C)
+    CNN is a straightforward implementation of a Neural Network. It supports most common activation functions and weight initilization methods.
+
+**Demonstration Programs** <br>
+  - **_IO_uring_**
+    This is a simple demonstration program that shows how to take advantage of this very fast way of making IO kernal requests
+  - **_wasm_test_**
+    This shows how to build wasm into your website without requiring a complicated toolchain and build process
+
+## Education
+
+**A Levels** Maths, Physics, Government and Politics<br>
+[Calday Grange Grammar School](https://calday.co.uk/) - Caldy, United Kingdom _(1997 - 2003)_ <br>
