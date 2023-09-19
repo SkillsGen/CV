@@ -17,7 +17,7 @@ Ultimately responsible for the development of a web application that keeps track
   - App development
 
 ## Personal Projects
-  - **_waves-filters_** (C / Swift / Metal) <br>
+  - **[waves-filters](https://github.com/SkillsGen/Waves-Filters)** (C / Swift / Metal) <br>
     By displaying the signal in both the time and frequency domains this application intends to give the user an intuition into how a synthesizer actually works and what happens when you change the dials. All audio processing is coded in c and called by the Swift layer which also handles drawing the oscilloscope displays with Metal.
     ![Waves and Filters](https://github.com/SkillsGen/CV/blob/master/WF.png?raw=true "Waves and Filters")
   - **_Subtractive Synthesiser_** (C++ / dear imgui)
@@ -26,15 +26,15 @@ Ultimately responsible for the development of a web application that keeps track
   - **_Cryptid_** (C++)
     Cryptid is a fully encrypted chat program written in c++ for maximum compatibility, it supports voice chat with the Opus codec, images and video with the VPX codecs. It is extremely performant has fully featured, windows, linux and macos versions.
     ![Cryptid](https://github.com/SkillsGen/CV/blob/master/cryptid.PNG?raw=true "Cryptid")
-  - **_cgrad_** (C)
+  - **[cgrad](https://github.com/SkillsGen/cgrad)** (C)
     This is a single header file library that allows you to build up a mathematical expression as a graph, calculate the partial derivative of any node and change values. Built mostly as a learning exercise.
-  - **_cnn_** (C)
+  - **[cnn](https://github.com/SkillsGen/CNN)** (C)
     CNN is a straightforward implementation of a Neural Network from scratch in C as a single file header library. It comes with 3 example datasets: logic gates, ionosphere data and the MNIST handwritten numeral set.
 
 **Demonstration Programs** <br>
-  - **_IO_uring_**
+  - **[io_uring](https://github.com/SkillsGen/io_uring_server_example)**<br>
     This is a simple demonstration program that shows how to take advantage of this very fast way of making IO kernal requests
-  - **_wasm_test_**
+  - **[wasm_test](https://github.com/SkillsGen/wasm_test)**<br>
     This shows how to build wasm into your website without requiring a complicated toolchain and build process
 
 ## Education
